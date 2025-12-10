@@ -74,19 +74,5 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashdeepmaheriya&theme=darkhub&margin-w=10&no-frame=true" alt="Trophies" />
-</p>
-
-
----
-
-## 🔝 Top Contributed Repositories
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=yashdeepmaheriya&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-</p>
-
----
 
 <h2 align="center">⭐ Thanks for Visiting my Profile! ⭐</h2>
